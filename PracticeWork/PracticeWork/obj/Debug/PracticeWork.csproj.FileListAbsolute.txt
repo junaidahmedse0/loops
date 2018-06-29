@@ -1,0 +1,6 @@
+c:\users\junaid ahmed\documents\visual studio 2015\Projects\PracticeWork\PracticeWork\bin\Debug\PracticeWork.exe.config
+c:\users\junaid ahmed\documents\visual studio 2015\Projects\PracticeWork\PracticeWork\bin\Debug\PracticeWork.exe
+c:\users\junaid ahmed\documents\visual studio 2015\Projects\PracticeWork\PracticeWork\bin\Debug\PracticeWork.pdb
+c:\users\junaid ahmed\documents\visual studio 2015\Projects\PracticeWork\PracticeWork\obj\Debug\PracticeWork.csprojResolveAssemblyReference.cache
+c:\users\junaid ahmed\documents\visual studio 2015\Projects\PracticeWork\PracticeWork\obj\Debug\PracticeWork.exe
+c:\users\junaid ahmed\documents\visual studio 2015\Projects\PracticeWork\PracticeWork\obj\Debug\PracticeWork.pdb

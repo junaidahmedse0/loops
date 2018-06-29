@@ -1,0 +1,6 @@
+c:\users\junaid ahmed\documents\visual studio 2015\Projects\QuestionFourteen\QuestionFourteen\bin\Debug\QuestionFourteen.exe.config
+c:\users\junaid ahmed\documents\visual studio 2015\Projects\QuestionFourteen\QuestionFourteen\bin\Debug\QuestionFourteen.exe
+c:\users\junaid ahmed\documents\visual studio 2015\Projects\QuestionFourteen\QuestionFourteen\bin\Debug\QuestionFourteen.pdb
+c:\users\junaid ahmed\documents\visual studio 2015\Projects\QuestionFourteen\QuestionFourteen\obj\Debug\QuestionFourteen.csprojResolveAssemblyReference.cache
+c:\users\junaid ahmed\documents\visual studio 2015\Projects\QuestionFourteen\QuestionFourteen\obj\Debug\QuestionFourteen.exe
+c:\users\junaid ahmed\documents\visual studio 2015\Projects\QuestionFourteen\QuestionFourteen\obj\Debug\QuestionFourteen.pdb

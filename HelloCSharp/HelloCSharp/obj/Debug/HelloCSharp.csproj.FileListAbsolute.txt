@@ -1,0 +1,6 @@
+c:\users\junaid ahmed\documents\visual studio 2015\Projects\HelloCSharp\HelloCSharp\bin\Debug\HelloCSharp.exe.config
+c:\users\junaid ahmed\documents\visual studio 2015\Projects\HelloCSharp\HelloCSharp\bin\Debug\HelloCSharp.exe
+c:\users\junaid ahmed\documents\visual studio 2015\Projects\HelloCSharp\HelloCSharp\bin\Debug\HelloCSharp.pdb
+c:\users\junaid ahmed\documents\visual studio 2015\Projects\HelloCSharp\HelloCSharp\obj\Debug\HelloCSharp.csprojResolveAssemblyReference.cache
+c:\users\junaid ahmed\documents\visual studio 2015\Projects\HelloCSharp\HelloCSharp\obj\Debug\HelloCSharp.exe
+c:\users\junaid ahmed\documents\visual studio 2015\Projects\HelloCSharp\HelloCSharp\obj\Debug\HelloCSharp.pdb

@@ -1,0 +1,6 @@
+c:\users\junaid ahmed\documents\visual studio 2015\Projects\FirstOrignalWork\FirstOrignalWork\bin\Debug\FirstOrignalWork.exe.config
+c:\users\junaid ahmed\documents\visual studio 2015\Projects\FirstOrignalWork\FirstOrignalWork\bin\Debug\FirstOrignalWork.exe
+c:\users\junaid ahmed\documents\visual studio 2015\Projects\FirstOrignalWork\FirstOrignalWork\bin\Debug\FirstOrignalWork.pdb
+c:\users\junaid ahmed\documents\visual studio 2015\Projects\FirstOrignalWork\FirstOrignalWork\obj\Debug\FirstOrignalWork.csprojResolveAssemblyReference.cache
+c:\users\junaid ahmed\documents\visual studio 2015\Projects\FirstOrignalWork\FirstOrignalWork\obj\Debug\FirstOrignalWork.exe
+c:\users\junaid ahmed\documents\visual studio 2015\Projects\FirstOrignalWork\FirstOrignalWork\obj\Debug\FirstOrignalWork.pdb
